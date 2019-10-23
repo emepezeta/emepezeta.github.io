@@ -1,0 +1,74 @@
+body {
+    background: #464544;
+    font-family: 'Noto Serif', monospace;
+    font-weight: lighter;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+.challenge-description {
+  font-style: italic;
+}
+.company {
+  color: #B93C47;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Be Vietnam', sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  letter-spacing: 10px;
+}
+.outlined {
+  color: #464544;
+  text-shadow:
+    -1px -1px 0 #fff,
+     0   -1px 0 #fff,
+     1px -1px 0 #fff,
+     1px  0   0 #fff,
+     1px  1px 0 #fff,
+     0    1px 0 #fff,
+    -1px  1px 0 #fff,
+    -1px  0   0 #fff;
+}
+
+h2 {
+  font-size: 20px;
+  color: white;
+  font-family: 'Be Vietnam', sans-serif;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+.challenge {
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 16px;
+  text-align: center;
+  color: white;
+  font-family: 'Noto Serif', sans-serif;
+  font-weight: lighter;
+}
+
+img {
+  width: 100%
+}
+
+.description-left {
+  text-align: left;
+}
+
+.description-right {
+  text-align: right;
+}
+
+.social-icon {
+  height: 36px;
+  text-align: center;
+}
+
+.social-icon-container {
+  text-align: center;
+}
