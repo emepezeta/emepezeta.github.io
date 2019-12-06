@@ -1,10 +1,11 @@
 body {
-    background: #464544;
+    background: white;
     font-family: 'Noto Serif', monospace;
     font-weight: lighter;
-    color: white;
+    color: black;
     font-size: 16px;
     text-align: center;
+    margin: 40px;
 }
 .challenge-description {
   font-style: italic;
@@ -26,21 +27,21 @@ h1 {
   letter-spacing: 10px;
 }
 .outlined {
-  color: #464544;
+  color: white;
   text-shadow:
-    -1px -1px 0 #fff,
-     0   -1px 0 #fff,
-     1px -1px 0 #fff,
-     1px  0   0 #fff,
-     1px  1px 0 #fff,
-     0    1px 0 #fff,
-    -1px  1px 0 #fff,
-    -1px  0   0 #fff;
+    -1px -1px 0 #000,
+     0   -1px 0 #000,
+     1px -1px 0 #000,
+     1px  0   0 #000,
+     1px  1px 0 #000,
+     0    1px 0 #000,
+    -1px  1px 0 #000,
+    -1px  0   0 #000;
 }
 
 h2 {
   font-size: 20px;
-  color: white;
+  color: black;
   font-family: 'Be Vietnam', sans-serif;
   font-weight: bold;
   letter-spacing: 5px;
@@ -54,7 +55,7 @@ h2 {
 
 h3 {
   font-size: 16px;
-  color: white;
+  color: black;
   font-family: 'Be Vietnam', sans-serif;
   font-weight: normal;
   letter-spacing: 5px;
