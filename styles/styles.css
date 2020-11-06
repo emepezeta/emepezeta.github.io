@@ -62,8 +62,18 @@ h3 {
   text-align: center;
 }
 
+h4 {
+  font-size: 8px;
+  color: black;
+  font-family: 'Be Vietnam', sans-serif;
+  font-weight: normal;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
 img {
-  width: 100%;
+  width: 300px;
+  height: 300px;
 }
 
 .description-left {
@@ -80,7 +90,7 @@ img {
 }
 
 .social-icon {
-  height: 36px;
+  height: 25px;
   text-align: center;
 }
 
@@ -89,5 +99,5 @@ img {
 }
 
 a {
-  color: #B93C47;
+  color: #FFFFFF;
 }
